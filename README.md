@@ -5,6 +5,10 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub stars](https://img.shields.io/github/stars/leonardsellem/codex-subagents-mcp?style=social)
 
+> **Status: Archived.** This repo is no longer maintained.
+>
+> I’m restarting this project from scratch with a new approach in: https://github.com/leonardsellem/codex-specialized-subagents
+
 File‑based sub‑agents for Codex CLI. One MCP tool. Zero fluff.
 
 - Auditable: agents are files reviewed in PRs
